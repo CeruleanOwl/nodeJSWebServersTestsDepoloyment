@@ -1,0 +1,1 @@
+This is a webServer that is using express.js! The web server is a dictionary holding ski terms that can be updated and deleted by the user. Express is used to console log these events as they take place and can be monitored in real time. Don't forget to install all dependencies before running!
